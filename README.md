@@ -103,3 +103,13 @@ haywire.
 There is no support yet for creating "user" fader pages.
 
 [pavucontrol]: https://www.freedesktop.org/software/pulseaudio/pavucontrol/
+
+## License
+
+Gnu GPL version 3 or later. See `COPYING`.
+
+## Support
+
+Let me know if you find this useful, or if you find any bugs. The list above is
+non-exhaustive, but knowing someone relies on it is good motivation to fix
+things. PRs are also welcome!
