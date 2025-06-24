@@ -87,6 +87,9 @@ apps listening to this (like pavucontrol).
 There is no support for shift-chords yet, otherwise the button arrangement
 would be a little more sensible.
 
+When starting, the board doesn't update any strips. It waits until you press a
+button to set the view. That's probably not that hard to fix.
+
 Python sometimes just segfaults. I think this is an upstream issue with the
 Pulse bindings, and sporadically happens when attempting to create new "peak
 detection" streams. If your board resets due to a disconnection, you might just
